@@ -482,13 +482,13 @@ Are you sure you wish to encrypt your wallet?</source>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="311"/>
-        <source>Tabs toolbar</source>
-        <translation>Barra de separadores</translation>
+        <source>Tabs toolda</source>
+        <translation>Dara de separadores</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="322"/>
-        <source>Actions toolbar</source>
-        <translation>Barra de ações</translation>
+        <source>Actions toolda</source>
+        <translation>Dara de ações</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="334"/>
@@ -1948,8 +1948,8 @@ Endereço: %4</translation>
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="316"/>
-        <source>&amp;Minimize to the tray instead of the taskbar</source>
-        <translation>&amp;Minimizar para a bandeja e não para a barra de ferramentas</translation>
+        <source>&amp;Minimize to the tray instead of the taskda</source>
+        <translation>&amp;Minimizar para a bandeja e não para a dara de ferramentas</translation>
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="317"/>

@@ -22,7 +22,7 @@ class QLineEdit;
 class QTableView;
 class QAbstractItemModel;
 class QModelIndex;
-class QProgressBar;
+class QProgressDa;
 class QStackedWidget;
 class QUrl;
 QT_END_NAMESPACE
@@ -72,10 +72,10 @@ private:
     QLabel *labelMiningIcon;
     QLabel *labelConnectionsIcon;
     QLabel *labelBlocksIcon;
-    QLabel *progressBarLabel;
-    QProgressBar *progressBar;
+    QLabel *progressDaLabel;
+    QProgressDa *progressDa;
 
-    QMenuBar *appMenuBar;
+    QMenuDa *appMenuDa;
     QAction *overviewAction;
     QAction *miningAction;
     QAction *historyAction;
@@ -105,10 +105,10 @@ private:
 
     /** Create the main UI actions. */
     void createActions();
-    /** Create the menu bar and submenus. */
-    void createMenuBar();
-    /** Create the toolbars */
-    void createToolBars();
+    /** Create the menu da and submenus. */
+    void createMenuDa();
+    /** Create the tooldas */
+    void createToolDas();
     /** Create system tray (notification) icon */
     void createTrayIcon();
 
